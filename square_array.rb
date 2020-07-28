@@ -3,7 +3,7 @@ def square_array(array)
   new_array = []
   array.each do |arr|
     calc = arr * arr 
-    new_array << (calc)
+    new_array.push(calc)
   end
     
   
