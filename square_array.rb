@@ -6,11 +6,6 @@ def square_array(array)
    squared.push(calc)
    squared
   end
-    
-  
-  
-  
-  
   
   
 end
