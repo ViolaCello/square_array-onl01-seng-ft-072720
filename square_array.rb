@@ -4,7 +4,7 @@ def square_array(array)
   array.each do |arr|
     calc = arr ** 2 
     new_array >> (calc)
-    
+  end
     
   
   
