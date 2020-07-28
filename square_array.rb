@@ -9,6 +9,6 @@ def square_array(array)
    squared.push(calc)
   
   end
-  squared
+  array = squared
   
 end
