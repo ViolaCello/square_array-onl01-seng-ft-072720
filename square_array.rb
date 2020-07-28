@@ -4,6 +4,7 @@ def square_array(array)
   array.each do |arr|
    calc = arr ** arr
    squared.push(calc)
+   squared
   end
     
   
