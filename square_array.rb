@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 
 def square_array(array)
   # your code here
@@ -7,8 +7,8 @@ def square_array(array)
    calc = arr ** arr
    binding.pry
    squared.push(calc)
-   squared
-  end
   
+  end
+  squared
   
 end
